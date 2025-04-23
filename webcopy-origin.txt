@@ -1,0 +1,972 @@
+Uri: http://grancafeespana.es/
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-17.htm
+Content Type: text/html
+
+Uri: http://grancafeespana.es/?author=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-27.htm
+Content Type: text/html
+
+Uri: http://grancafeespana.es/?cat=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-28.htm
+Content Type: text/html
+
+Uri: http://grancafeespana.es/?feed=comments-rss2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-19.htm
+Content Type: application/rss+xml
+
+Uri: http://grancafeespana.es/?feed=rss2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-18.htm
+Content Type: application/rss+xml
+
+Uri: http://grancafeespana.es/?feed=rss2&author=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-32.htm
+Content Type: application/rss+xml
+
+Uri: http://grancafeespana.es/?feed=rss2&cat=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-33.htm
+Content Type: application/rss+xml
+
+Uri: http://grancafeespana.es/?feed=rss2&p=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-30.htm
+Content Type: application/rss+xml
+
+Uri: http://grancafeespana.es/?feed=rss2&page_id=2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-29.htm
+Content Type: application/rss+xml
+
+Uri: http://grancafeespana.es/?p=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-26.htm
+Content Type: text/html
+
+Uri: http://grancafeespana.es/?p=1&replytocom=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-31.htm
+Content Type: text/html
+
+Uri: http://grancafeespana.es/?page_id=15
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-20.htm
+Content Type: text/html
+
+Uri: http://grancafeespana.es/?page_id=2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-24.htm
+Content Type: text/html
+
+Uri: http://grancafeespana.es/?page_id=37
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-23.htm
+Content Type: text/html
+
+Uri: http://grancafeespana.es/?page_id=38
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-22.htm
+Content Type: text/html
+
+Uri: http://grancafeespana.es/?page_id=39
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-25.htm
+Content Type: text/html
+
+Uri: http://grancafeespana.es/?page_id=40
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-21.htm
+Content Type: text/html
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-26.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fp%3D1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-44.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fp%3D1&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-45.php
+Content Type: text/xml
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-38.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D2&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-39.php
+Content Type: text/xml
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D37
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-35.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D37&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-36.php
+Content Type: text/xml
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D38
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-32.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D38&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-33.php
+Content Type: text/xml
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D39
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-41.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D39&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-42.php
+Content Type: text/xml
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D40
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-29.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D40&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-30.php
+Content Type: text/xml
+
+Uri: http://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fgrancafeespana.es%2F&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-27.php
+Content Type: text/xml
+
+Uri: http://grancafeespana.es/index.php?rest_route=/
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-24.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-47.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=/wp/v2/pages/14
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-25.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-37.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=/wp/v2/pages/37
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-34.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=/wp/v2/pages/38
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-31.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=/wp/v2/pages/39
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-40.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=/wp/v2/pages/40
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-28.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-43.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/index.php?rest_route=/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-46.php
+Content Type: application/json
+
+Uri: http://grancafeespana.es/wp-admin/css/forms.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: http://grancafeespana.es/wp-admin/css/l10n.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: http://grancafeespana.es/wp-admin/css/login.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: http://grancafeespana.es/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: http://grancafeespana.es/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: http://grancafeespana.es/wp-admin/js/password-strength-meter.min.js?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-admin/js/user-profile.min.js?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/build/block-library/style.css?ver=1709026436
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\build\block-library\style-1.css
+Content Type: text/css
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/build/frontend/index.js?ver=c4f77a9e66736c4d0e9d
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\build\frontend\index-1.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/build/scripts/index.js?ver=494ef51a8c5562fa000c
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\build\scripts\index-1.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/build/third-party-blocks/style.css?ver=1709026437
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\build\third-party-blocks\style-1.css
+Content Type: text/css
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/10degree-stripes.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\10degree-stripes-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-2.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\circles-2-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-3.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\circles-3-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-gradient.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\circles-gradient-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-white-gradient.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\circles-white-gradient-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/circles.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\circles-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/doodle.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\doodle-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/dots.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\dots-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/falling-stars.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\falling-stars-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/grain.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\grain-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/left-tilted-lines.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\left-tilted-lines-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/many-rounded-squares-blue.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\many-rounded-squares-blue-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/poly1.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\poly1-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/poly2.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\poly2-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/right-tilted-lines.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\right-tilted-lines-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/right-tilted-strips.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\right-tilted-strips-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/rounded-squares-blue.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\rounded-squares-blue-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/two-circles.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\two-circles-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/waves-inverted.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\waves-inverted-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/waves.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\waves-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/wavy-lines.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\wavy-lines-1.png
+Content Type: image/png
+
+Uri: http://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_italic_400-1.woff2
+Content Type: 
+
+Uri: http://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_400-1.woff2
+Content Type: 
+
+Uri: http://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_700-1.woff2
+Content Type: 
+
+Uri: http://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\fonts\inter\Inter-VariableFont_slnt,wght-1.woff2
+Content Type: 
+
+Uri: http://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/images/building-exterior.webp
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\images\building-exterior-1.webp
+Content Type: image/webp
+
+Uri: http://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/images/tourist-and-building.webp
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\images\tourist-and-building-1.webp
+Content Type: image/webp
+
+Uri: http://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/images/windows.webp
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\images\windows-1.webp
+Content Type: image/webp
+
+Uri: http://grancafeespana.es/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-1024x436.jpeg
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\uploads\2024\02\WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-1024x436-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://grancafeespana.es/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-300x128.jpeg
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\uploads\2024\02\WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-300x128-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://grancafeespana.es/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-768x327.jpeg
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\uploads\2024\02\WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-768x327-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://grancafeespana.es/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362.jpeg
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\uploads\2024\02\WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://grancafeespana.es/wp-includes/blocks/image/style.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\blocks\image\style.min-1.css
+Content Type: text/css
+
+Uri: http://grancafeespana.es/wp-includes/blocks/navigation/style.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\blocks\navigation\style.min-1.css
+Content Type: text/css
+
+Uri: http://grancafeespana.es/wp-includes/blocks/navigation/view.min.js?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\blocks\navigation\view.min-1.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/css/buttons.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: http://grancafeespana.es/wp-includes/css/dashicons.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: http://grancafeespana.es/wp-includes/css/dist/block-library/common.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\css\dist\block-library\common.min-1.css
+Content Type: text/css
+
+Uri: http://grancafeespana.es/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://grancafeespana.es/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://grancafeespana.es/wp-includes/js/comment-reply.min.js?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\comment-reply.min-1.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/js/dist/interactivity.min.js?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\dist\interactivity.min-1.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/js/wp-util.min.js?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: http://grancafeespana.es/wp-login.php
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-login.php-2.html
+Content Type: text/html
+
+Uri: http://grancafeespana.es/wp-login.php?action=lostpassword
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-login.php-1.html
+Content Type: text/html
+
+Uri: http://grancafeespana.es/wp-login.php?redirect_to=http%3A%2F%2Fgrancafeespana.es%2Fwp-admin%2F&reauth=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-login.php.html
+Content Type: text/html
+
+Uri: http://grancafeespana.es/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\grancafeespana.es\xmlrpc-1.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic|Mulish%3A300%2C400%2C400italic%2C500%2C600%2C700%2C700italic|Roboto%3A100%2C100italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C700%2C700italic%2C900%2C900italic|Carter+One%3A400|Poppins%3A300%2C400%2C500%2C600%2C700%2C900|Syne%3A400%2C400italic%2C600%2C700%2C700italic|Syncopate%3A700|Urbanist%3A400%2C600%2C700%2C800|Inter%3A600&display=swap
+File Name: C:\Downloaded Web Sites\grancafeespana.es\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/carterone/v17/q5uCsoe5IOB2-pXv9UcNExN8gQ.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\carterone\v17\q5uCsoe5IOB2-pXv9UcNExN8gQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOfGZQ_.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOfGZQ_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSzuSfGZQ_.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSzuSfGZQ_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFR8aevHg.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFR8aevHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1R8aevHg.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1R8aevHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8aevHg.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1W8aevHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRW8aevHg.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRW8aevHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevHg.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\poppins\v21\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syncopate/v21/pe0pMIuPIYBCpEV5eFdKvtKqBP5q.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\syncopate\v21\pe0pMIuPIYBCpEV5eFdKvtKqBP5q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_04uQ6jTYo.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_04uQ6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvg6jTYo.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_3fvg6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvg6jTYo.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_3mvg6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkvEZmv.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\urbanist\v15\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkvEZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkvEZmv.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\urbanist\v15\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkvEZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkvEZmv.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\urbanist\v15\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkvEZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4vEZmv.ttf
+File Name: C:\Downloaded Web Sites\grancafeespana.es\s\urbanist\v15\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4vEZmv.ttf
+Content Type: font/ttf
+
+Uri: https://grancafeespana.es/
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index.htm
+Content Type: text/html
+
+Uri: https://grancafeespana.es/?author=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-10.htm
+Content Type: text/html
+
+Uri: https://grancafeespana.es/?cat=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-11.htm
+Content Type: text/html
+
+Uri: https://grancafeespana.es/?feed=comments-rss2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://grancafeespana.es/?feed=rss2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://grancafeespana.es/?feed=rss2&author=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-15.htm
+Content Type: application/rss+xml
+
+Uri: https://grancafeespana.es/?feed=rss2&cat=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-16.htm
+Content Type: application/rss+xml
+
+Uri: https://grancafeespana.es/?feed=rss2&p=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-13.htm
+Content Type: application/rss+xml
+
+Uri: https://grancafeespana.es/?feed=rss2&page_id=2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-12.htm
+Content Type: application/rss+xml
+
+Uri: https://grancafeespana.es/?p=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-9.htm
+Content Type: text/html
+
+Uri: https://grancafeespana.es/?p=1&replytocom=1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-14.htm
+Content Type: text/html
+
+Uri: https://grancafeespana.es/?page_id=15
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-3.htm
+Content Type: text/html
+
+Uri: https://grancafeespana.es/?page_id=2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-7.htm
+Content Type: text/html
+
+Uri: https://grancafeespana.es/?page_id=37
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-6.htm
+Content Type: text/html
+
+Uri: https://grancafeespana.es/?page_id=38
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-5.htm
+Content Type: text/html
+
+Uri: https://grancafeespana.es/?page_id=39
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-8.htm
+Content Type: text/html
+
+Uri: https://grancafeespana.es/?page_id=40
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-4.htm
+Content Type: text/html
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-2.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fp%3D1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-20.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fp%3D1&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-21.php
+Content Type: text/xml
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-14.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D2&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-15.php
+Content Type: text/xml
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D37
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-11.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D37&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-12.php
+Content Type: text/xml
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D38
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-8.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D38&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-9.php
+Content Type: text/xml
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D39
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-17.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D39&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-18.php
+Content Type: text/xml
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D40
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-5.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F%3Fpage_id%3D40&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-6.php
+Content Type: text/xml
+
+Uri: https://grancafeespana.es/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https%3A%2F%2Fgrancafeespana.es%2F&format=xml
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-3.php
+Content Type: text/xml
+
+Uri: https://grancafeespana.es/index.php?rest_route=/
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-23.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=/wp/v2/pages/14
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-1.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-13.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=/wp/v2/pages/37
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-10.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=/wp/v2/pages/38
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-7.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=/wp/v2/pages/39
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-16.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=/wp/v2/pages/40
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-4.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-19.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/index.php?rest_route=/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\index-22.php
+Content Type: application/json
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/build/block-library/style.css?ver=1709026436
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\build\block-library\style.css
+Content Type: text/css
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/build/frontend/index.js?ver=c4f77a9e66736c4d0e9d
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\build\frontend\index.js
+Content Type: application/javascript
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/build/scripts/index.js?ver=494ef51a8c5562fa000c
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\build\scripts\index.js
+Content Type: application/javascript
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/build/third-party-blocks/style.css?ver=1709026437
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\build\third-party-blocks\style.css
+Content Type: text/css
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/10degree-stripes.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\10degree-stripes.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-2.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\circles-2.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-3.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\circles-3.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-gradient.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\circles-gradient.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/circles-white-gradient.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\circles-white-gradient.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/circles.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\circles.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/doodle.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\doodle.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/dots.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\dots.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/falling-stars.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\falling-stars.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/grain.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\grain.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/left-tilted-lines.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\left-tilted-lines.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/many-rounded-squares-blue.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\many-rounded-squares-blue.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/poly1.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\poly1.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/poly2.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\poly2.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/right-tilted-lines.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\right-tilted-lines.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/right-tilted-strips.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\right-tilted-strips.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/rounded-squares-blue.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\rounded-squares-blue.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/two-circles.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\two-circles.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/waves-inverted.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\waves-inverted.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/waves.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\waves.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/plugins/kubio/lib/shapes/header-shapes/wavy-lines.png
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\plugins\kubio\lib\shapes\header-shapes\wavy-lines.png
+Content Type: image/png
+
+Uri: https://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_italic_400.woff2
+Content Type: 
+
+Uri: https://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_400.woff2
+Content Type: 
+
+Uri: https://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_700.woff2
+Content Type: 
+
+Uri: https://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\fonts\inter\Inter-VariableFont_slnt,wght.woff2
+Content Type: 
+
+Uri: https://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/images/building-exterior.webp
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\images\building-exterior.webp
+Content Type: image/webp
+
+Uri: https://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/images/tourist-and-building.webp
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\images\tourist-and-building.webp
+Content Type: image/webp
+
+Uri: https://grancafeespana.es/wp-content/themes/twentytwentyfour/assets/images/windows.webp
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\themes\twentytwentyfour\assets\images\windows.webp
+Content Type: image/webp
+
+Uri: https://grancafeespana.es/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-1024x436.jpeg
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\uploads\2024\02\WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-1024x436.jpeg
+Content Type: image/jpeg
+
+Uri: https://grancafeespana.es/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-300x128.jpeg
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\uploads\2024\02\WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-300x128.jpeg
+Content Type: image/jpeg
+
+Uri: https://grancafeespana.es/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-768x327.jpeg
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\uploads\2024\02\WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362-768x327.jpeg
+Content Type: image/jpeg
+
+Uri: https://grancafeespana.es/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362.jpeg
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-content\uploads\2024\02\WhatsApp-Image-2024-02-26-at-18.35.09-1-1-e1709031047362.jpeg
+Content Type: image/jpeg
+
+Uri: https://grancafeespana.es/wp-includes/blocks/image/style.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\blocks\image\style.min.css
+Content Type: text/css
+
+Uri: https://grancafeespana.es/wp-includes/blocks/navigation/style.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\blocks\navigation\style.min.css
+Content Type: text/css
+
+Uri: https://grancafeespana.es/wp-includes/blocks/navigation/view.min.js?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\blocks\navigation\view.min.js
+Content Type: application/javascript
+
+Uri: https://grancafeespana.es/wp-includes/css/dist/block-library/common.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\css\dist\block-library\common.min.css
+Content Type: text/css
+
+Uri: https://grancafeespana.es/wp-includes/js/comment-reply.min.js?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://grancafeespana.es/wp-includes/js/dist/interactivity.min.js?ver=6.5.3
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\dist\interactivity.min.js
+Content Type: application/javascript
+
+Uri: https://grancafeespana.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://grancafeespana.es/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\grancafeespana.es\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://grancafeespana.es/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\grancafeespana.es\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=40&d=mm&r=g
+File Name: C:\Downloaded Web Sites\grancafeespana.es\avatar\d7a973c7dab26985da5f961be7b74480.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=80&d=mm&r=g
+File Name: C:\Downloaded Web Sites\grancafeespana.es\avatar\d7a973c7dab26985da5f961be7b74480-1.png
+Content Type: image/png
+
